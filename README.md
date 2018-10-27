@@ -1,3 +1,4 @@
+<!---
 
 # react-native-chartist
 
@@ -50,4 +51,5 @@ import RNChartist from 'react-native-chartist';
 // TODO: What to do with the module?
 RNChartist;
 ```
-  
+
+--->
