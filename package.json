@@ -18,7 +18,9 @@
   "dependencies": {
     "chart.js": "^2.7.3",
     "lodash": "^4.17.11",
-    "prop-types": "^15.6.2"
+    "prop-types": "^15.6.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
